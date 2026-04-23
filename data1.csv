@@ -1,0 +1,13 @@
+submission_id,team_name,school,area,contact,problem,score_text,runtime_text,language,submitted_at,paid,members
+S001," Alpha Coders ","Pui Ching Middle School","Macao","alpha@example.com / +853 6123 4567","A - Data Cleanup","Score: 88/100","1m 42s","python","2026-04-21 19:05","yes","Alice; Bob; Charlie"
+S002,"byte force","Pui Ching middle school","macau","byteforce@example.com","B: Text Parser","76 pts","98 sec","Python3","2026/04/21 19:12","Y","Ben, Cathy"
+S003,"Null Pointers","Keang Peng School","Taipa","null@school.mo / 63334444","A - Data Cleanup","missing","2 min 05 sec","py","21-04-2026 19:18","no","David; Eva"
+S004,"Data Ninjas","Keang Peng School","TAIPA","","C - Group Stats","91","00:01:31","PYTHON","2026-04-21 19:30","yes","Fiona; Gary; Helen"
+S005," pandas pandas ","Sacred Heart Canossian College","Macau","pandas@example.com","A - Data Cleanup","84/100","1:55","python","2026-04-21 19:36","","Iris"
+S006,"Loop Troop","Sacred Heart Canossian College","macau island","loop@example.com / +853-6888-9999","B: Text Parser","Score = 69","145 seconds","Python","2026-04-21 19:42","yes","Jack; Kelly"
+S007,"Regex Rangers","Yuet Wah College","Macao","regex@example.com","B: Text Parser","95 points","1m05s","python3","2026-04-21 19:50","yes","Leo; Mike"
+S008,"CSV Avengers","Yuet Wah College","Macau","csv@example.com","C - Group Stats","N/A","","python","2026-04-21 19:55","yes","Nora; Oscar"
+S009,"Clean Sweep","Hou Kong Middle School","Taipa","cleansweep@example.com / 66667777","A - Data Cleanup","78 percent","2m 20s","PY","2026-04-21 20:02","yes","Paul; Queenie"
+S010,"Bug Hunters","Hou Kong Middle School","taipa","bug@example.com","C - Group Stats","Score: 87","95s","Python3","2026-04-21 20:08","N","Ryan"
+S011,"Group By Gang","Pui Ching Middle School","Macau","groupby@example.com","C - Group Stats","92 pts","1 min 28 sec","python","2026-04-21 20:16","yes","Sandy; Tom"
+S012,"Missing Values","Keang Peng School","","missing@example.com","B: Text Parser","","130 sec","python","2026-04-21 20:23","yes","Una; Victor"
